@@ -1,0 +1,10 @@
+/out:"F:\workForWP\source\ToolForColor\ToolForColor\obj\x86\Release\ilc\intermediate\SgGenerated\\"
+/int:"F:\workForWP\source\ToolForColor\ToolForColor\obj\x86\Release\ilc\intermediate\\"
+/ref:"F:\workForWP\source\ToolForColor\ToolForColor\obj\x86\Release\ilc\intermediate\PreMergeILTransformed\\"
+/ref:"F:\workForWP\source\ToolForColor\ToolForColor\obj\x86\Release\ilc\intermediate\TransformedSRWR\\"
+/ref:"F:\workForWP\source\ToolForColor\ToolForColor\obj\x86\Release\ilc\in\\"
+/ref:"F:\workForWP\source\ToolForColor\ToolForColor\obj\x86\Release\ilc\in\\"
+/ref:"F:\workForWP\source\ToolForColor\ToolForColor\obj\x86\Release\ilc\in\\"
+/ref:"C:\Program Files (x86)\MSBuild\Microsoft\.NetNative\x86\ilc\lib\Private\\"
+/ref:"F:\workForWP\source\ToolForColor\ToolForColor\obj\x86\Release\ilc\in\WinMetadata\\"
+/ca:System.Private.CoreLib
